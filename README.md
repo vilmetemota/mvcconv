@@ -18,7 +18,7 @@ Projeto faz parte de avaliaçao parcial da disciplina de desenvolvimento de sist
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/foto1.jpg" width="100px">  |  [Vilma  Mota]|(https://github.com/vilmetemota) | [-]() | vilmete05@gmail.com
+<img src="./doc/foto1.png" width="100px">  |  [Vilma  Mota]|(https://github.com/vilmetemota) | [-]() | vilmete05@gmail.com
 
 **Contribuir**
 
